@@ -32,3 +32,11 @@ figure {
 img {
   border-radius: 10px;
 }
+
+footer {
+  width: 100%;
+  background-color: #3B4252;
+  margin: 20px 0 0;
+  text-align: center;
+  padding: 10px 0;
+}
