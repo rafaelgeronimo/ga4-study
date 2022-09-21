@@ -1,0 +1,34 @@
+body {
+  background-color: #2E3440;
+  color: #ECEFF4;
+}
+
+
+ul {
+  display: flex;
+  list-style: none;
+  margin: 10px 0;
+}
+
+ul li {
+  margin-right: 10px;
+}
+
+ul li a {
+  padding: 5px 10px;
+  background-color: #3B4252;
+  color: #ECEFF4;
+  text-decoration: none;
+}
+
+p {
+  padding: 10px;
+}
+
+figure {
+  margin: 0 auto;
+}
+
+img {
+  border-radius: 10px;
+}
